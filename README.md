@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/davidwara/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/davidwara/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # gta6-meme-x-01 — Post a GTA 6 meme on X
 
 A make.fun bounty entry: one GTA 6 meme, posted on X from a public account,
@@ -42,11 +46,9 @@ picture and text to the judge.
 
 `POST.json` holds the post's address:
 
-    {"url": "https://x.com/<handle>/status/<id>"}
+    {"url": "https://x.com/jevuska_/status/2123627117107880036"}
 
-Replace the placeholder with the real post address after posting (the post's
-Share button, then Copy link). The placeholder as it stands is no post's
-address, so the gate refuses it — that is on purpose.
+The post is live at https://make.fun/bounty/gta6-meme-x-01 (the bounty page).
 
 ## Run it locally
 
